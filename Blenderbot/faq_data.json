@@ -1,0 +1,77 @@
+{
+    "faqs": [
+      {
+        "question": "What is this website about?",
+        "answer": "Our website is dedicated to helping users manage their personal finances efficiently. We offer tools like an expense tracker, budget tracker, and bill reminders to assist you in making informed financial decisions."
+      },
+      {
+        "question": "Who can benefit from using this website?",
+        "answer": "Anyone looking to improve their financial health can benefit from our tools. Whether you're a student, a working professional, or managing a household, our website is designed for users of all backgrounds."
+      },
+      {
+        "question": "Is this website free to use?",
+        "answer": "Yes, our core features are free to use! However, some advanced features may require a subscription or a one-time fee."
+      },
+      {
+        "question": "How do I add an expense?",
+        "answer": "To add an expense, navigate to the Expense Tracker page, click on the 'Add Expense' button, and fill in the required details such as date, category, description, and amount."
+      },
+      {
+        "question": "Can I edit or delete an expense?",
+        "answer": "Yes, you can edit or delete any expense by selecting it from your expense list and choosing the appropriate option."
+      },
+      {
+        "question": "How does the expense tracking feature help me?",
+        "answer": "The expense tracker helps you monitor your spending habits, identify areas where you can save money, and maintain an accurate record of your finances."
+      },
+      {
+        "question": "What is the budget tracker?",
+        "answer": "The budget tracker allows you to set monthly spending limits for different categories and helps you stay within those limits to achieve your financial goals."
+      },
+      {
+        "question": "How do I set a budget?",
+        "answer": "To set a budget, go to the Budget Tracker page, choose the category you want to budget for, and enter the amount you wish to allocate."
+      },
+      {
+        "question": "Will I get notified if I exceed my budget?",
+        "answer": "Yes, you will receive notifications if you exceed your budget limits, helping you stay on track."
+      },
+      {
+        "question": "How do I set up a bill reminder?",
+        "answer": "To set up a bill reminder, navigate to the Bill Reminder page, click on 'Add Reminder,' and fill in the details such as bill type, due date, and frequency."
+      },
+      {
+        "question": "Can I customize reminder notifications?",
+        "answer": "Yes, you can customize how and when you receive reminder notifications, including email alerts and in-app notifications."
+      },
+      {
+        "question": "What types of bills can I track?",
+        "answer": "You can track various types of bills, including utilities, credit card payments, subscriptions, and any recurring expenses."
+      },
+      {
+        "question": "How can I get help if I have issues using the website?",
+        "answer": "If you encounter any issues, please visit our Support page where you can find FAQs, contact support, or access our user guides."
+      },
+      {
+        "question": "Do you offer live chat support?",
+        "answer": "Currently, we do not offer live chat support, but you can reach out via email or through our contact form for assistance."
+      },
+      {
+        "question": "Where can I find tutorials on how to use the features?",
+        "answer": "You can find tutorials on our Support page, including step-by-step guides for each feature of the website."
+      },
+      {
+        "question": "Is my financial data secure on your website?",
+        "answer": "Yes, we prioritize your privacy and security. All data is encrypted, and we adhere to strict security protocols to protect your information."
+      },
+      {
+        "question": "Can I access the website on my mobile device?",
+        "answer": "Yes, our website is mobile-friendly, allowing you to manage your finances on the go."
+      },
+      {
+        "question": "Will there be additional features added in the future?",
+        "answer": "We are continually working to improve our platform and add new features based on user feedback. Stay tuned for updates!"
+      }
+    ]
+  }
+  
